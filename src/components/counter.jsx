@@ -40,5 +40,5 @@ handleIncrement = () => {
 
 
 }
- 
+// a random comment
 export default Counter;
